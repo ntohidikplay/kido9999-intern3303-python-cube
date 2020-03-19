@@ -1,0 +1,17 @@
+{
+    "type": "python",
+    "tags": [
+        "python",
+        "function"
+    ],
+    "current": {
+        "path": "default",
+        "scenario": "main.easy",
+        "topic": "1.topic1",
+        "lesson": "1.lesson1"
+    },
+    "scenarios": [
+        "default.index",
+        "main.easy.index"
+    ]
+}

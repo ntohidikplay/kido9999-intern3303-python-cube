@@ -1,0 +1,34 @@
+{
+    "path": "default",
+    "scenario": "main.easy",
+    "topic": "1.topic1",
+    "lesson": "1.lesson1",
+    "type": "python",
+    "tags": [
+        "python",
+        "function"
+    ],
+    "time": 0,
+    "complete": 0,
+    "modified": 0,
+    "result": {
+        "main.easy": {
+            "1.topic1": {
+                "1.lesson1": {
+                    "status": "failed",
+                    "total": 3,
+                    "failed": 3,
+                    "passed": 0,
+                    "point": 0
+                }
+            }
+        }
+    },
+    "score": {
+        "status": "pending",
+        "total": 3,
+        "failed": 3,
+        "passed": 0,
+        "point": 0
+    }
+}
