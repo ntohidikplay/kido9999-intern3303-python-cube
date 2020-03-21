@@ -8,7 +8,7 @@
         "path": "default",
         "scenario": "main.easy",
         "topic": "1.topic1",
-        "lesson": "1.lesson1"
+        "lesson": "2.lesson2"
     },
     "scenarios": [
         "default.index",
